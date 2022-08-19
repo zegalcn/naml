@@ -1,0 +1,11 @@
+node_modules
+.DS_Store
+desktop.ini
+.idea
+*.swp
+npm-debug.log
+cjs/
+es6/
+package-lock.json
+/as-function.js
+tmp/
